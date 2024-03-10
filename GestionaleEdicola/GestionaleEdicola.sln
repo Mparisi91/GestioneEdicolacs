@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionaleEdicola", "GestionaleEdicola\GestionaleEdicola.csproj", "{4E5E0777-A76F-4FC0-8CAA-B5B061C51860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5E0777-A76F-4FC0-8CAA-B5B061C51860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5E0777-A76F-4FC0-8CAA-B5B061C51860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5E0777-A76F-4FC0-8CAA-B5B061C51860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5E0777-A76F-4FC0-8CAA-B5B061C51860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8430A035-DEA2-4D9C-B26F-24416CDEBD8C}
+	EndGlobalSection
+EndGlobal
